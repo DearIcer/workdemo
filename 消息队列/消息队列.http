@@ -1,0 +1,6 @@
+@消息队列_HostAddress = http://localhost:5117
+
+GET {{消息队列_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

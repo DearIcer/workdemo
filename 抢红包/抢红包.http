@@ -1,0 +1,6 @@
+@抢红包_HostAddress = http://localhost:5079
+
+GET {{抢红包_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
