@@ -3,3 +3,6 @@ obj/
 /packages/
 riderModule.iml
 /_ReSharper.Caches/
+.vs/分布式中间件/v17/DocumentLayout.backup.json
+.vs/分布式中间件/v17/Browse.VC.db
+.vs/分布式中间件/v17/Solution.VC.db
